@@ -1,8 +1,8 @@
 # Python
 习题记录
 
-###### 习题1：输出hello world
->print 'Hello World ' 
+###### 习题1：输出hello world  
+>print 'Hello World '   
 >【Hello World 】
 
 ###### 习题2：两数相加
