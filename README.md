@@ -72,10 +72,10 @@ print 后面没有写任何东西，是起到换行的作用，这样,每输出 
 > print ‘Price is %d’ % 4  
   Price is 4
   
-  print ‘Price is %.2f’ % 4.99  
+> print ‘Price is %.2f’ % 4.99  
   Price is 4.99
   
-  print 'Today is %s.' % 'Friday'   
+> print 'Today is %s.' % 'Friday'   
   Today is Friday.
 
 ##### 习题 8：输出乘法表
