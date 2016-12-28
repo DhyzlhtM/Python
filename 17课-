@@ -1,0 +1,4 @@
+* int(x) #把 x 转换成整数
+* float(x) #把 x 转换成浮点数
+* str(x) #把 x 转换成字符串
+* bool(x) #把 x 转换成 bool 值
