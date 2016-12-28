@@ -14,8 +14,8 @@ print a+b
  19】 
 
 ###### 习题3：输出1到100
->for i in range (1,101):   
--------print i 
+>for i in range (1,101):  
+      print i 
     
 ######习题4：1加到100的和 
 
