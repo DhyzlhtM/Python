@@ -47,4 +47,6 @@
         print '',
     for j in range (0,i):
         print '*',
-    print
+    print  
+>如果想让这 5 个 * 在同一行，就在 print 语句后面加上逗号  
+print 后面没有写任何东西，是起到换行的作用，这样，每输出 5 个 *，就会换行。
