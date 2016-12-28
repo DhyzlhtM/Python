@@ -69,6 +69,12 @@ print 后面没有写任何东西，是起到换行的作用，这样,每输出 
 * \n 表示字符串中的换行
 * \ 还有个用处，就是用来在代码中换行，而不影响输出的结果
 
+##### 习题 8：输出乘法表
+    for i in range (1,10):
+    for j in range (1,i+1):
+        print '%d*%d=%d' % (i,j,i*j) ,
+    print 
+
 > print ‘Price is %d’ % 4  
   Price is 4
   
@@ -77,5 +83,3 @@ print 后面没有写任何东西，是起到换行的作用，这样,每输出 
   
 > print 'Today is %s.' % 'Friday'   
   Today is Friday.
-
-##### 习题 8：输出乘法表
