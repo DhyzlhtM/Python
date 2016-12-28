@@ -96,3 +96,18 @@ print 后面没有写任何东西，是起到换行的作用，这样,每输出 
   
 > print 'Today is %s.' % 'Friday'   
   Today is Friday.
+  
+##### 习题 9：求最大值
+    a=input()
+b=input()
+c=input()
+
+if a<=b:
+    if c<=b:
+        print b
+    else:
+        print c
+else:
+    print a
+
+
