@@ -3,7 +3,7 @@
 
 ##### 习题1：输出hello world  
     print 'Hello World '   
->【Hello World 】
+【Hello World 】
 
 ##### 习题2：两数相加
     a=input()   
